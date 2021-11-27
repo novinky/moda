@@ -1140,7 +1140,7 @@ table th {
 }
 
 .navbar {
-  background: #485fc7;
+  background: #0a0a0a;
 }
 .navbar ul {
   display: flex;
@@ -1155,7 +1155,7 @@ table th {
 
 .header {
   padding: 1rem 0;
-  background: #ffe08a;
+  background: #d1fae5;
 }
 .header .title {
   font-size: 2rem;
